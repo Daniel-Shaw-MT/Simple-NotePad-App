@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/imgs">
+        <file>F:/MojaveMACOSX/Icons/Icons/Copy.bmp</file>
+        <file>F:/MojaveMACOSX/Icons/Icons/Cut.bmp</file>
+        <file>F:/MojaveMACOSX/Icons/Icons/New.bmp</file>
+        <file>F:/MojaveMACOSX/Icons/Icons/Open.bmp</file>
+        <file>F:/MojaveMACOSX/Icons/Icons/Paste.bmp</file>
+        <file>F:/MojaveMACOSX/Icons/Icons/Save.bmp</file>
+    </qresource>
+</RCC>
